@@ -1,0 +1,15 @@
+.main_div {
+  height: 80vh;
+  background: aliceblue;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.main_div h1 {
+  align-items: center;
+  color: rgb(119, 115, 115);
+  text-align: center;
+ 
+}
